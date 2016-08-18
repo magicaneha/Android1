@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mnuNew"
+        android:title="New">
+    </item>
+    <item
+        android:id="@+id/mnuOpen"
+        android:title="Open">
+    </item>
+    <item
+        android:id="@+id/mnuSave"
+        android:title="Save">
+    </item>
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item 
+    android:title="New"
+    android:id="@+id/mnuNew"
+   android:icon="@drawable/ic_launcher" 
+    />    
+<item 
+    android:title="Open"
+    android:id="@+id/mnuOpen"
+   android:icon="@drawable/ic_launcher" 
+    /> 
+    <item 
+    android:title="Save"
+    android:id="@+id/mnuSave"
+   android:icon="@drawable/ic_launcher" 
+    /> 
+</menu>

@@ -1,0 +1,5 @@
+#Tue Jan 28 02:31:16 PST 2014
+ddms.logcat.automonitor.userprompt=true
+eclipse.preferences.version=1
+ddms.logcat.automonitor=false
+ddms.logcat.auotmonitor.level=error

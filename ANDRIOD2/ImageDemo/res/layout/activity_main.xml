@@ -1,0 +1,27 @@
+<LinearLayout
+    
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+    <ImageView  
+        android:layout_height="200dp"
+        android:layout_width="200dp"
+        android:id="@+id/iv"
+        android:src="@drawable/ic_launcher"
+        
+        />
+
+    <Button
+        android:id="@+id/btnLoad1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load from Drawable" />
+    <Button
+        android:id="@+id/btnLoad2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load from SD Card" />
+    
+</LinearLayout>
